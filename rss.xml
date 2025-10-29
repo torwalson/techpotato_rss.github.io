@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TechPotato Blog</title>
+    <link>https://techpotato.io/</link>
+    <ns0:link href="https://techpotato.io/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Latest Blog Posts by Torwals the Tech TechPotato</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Oct 2025 10:35:00 -0000</lastBuildDate>
+    <pubDate>Fri, 10 Oct 2025 10:35:00 -0000</pubDate>
+    <ttl>1800</ttl>
+    <item>
+      <title>Linux Gaming</title>
+      <link>https://techpotato.io/linux_gaming</link>
+      <description>Troubleshooting slow windows games with proton on my Linux gaming setup using Pop!OS.</description>
+      <pubDate>Sat, 04 Oct 2025 03:52:00 -0000</pubDate>
+      <guid isPermaLink="true">https://techpotato.io/linux_gaming</guid>
+    </item>
+    <item>
+      <title>Welcome to Techpotato.io</title>
+      <link>https://techpotato.io/home</link>
+      <description />
+      <pubDate>Fri, 03 Oct 2025 22:35:00 -0000</pubDate>
+      <guid isPermaLink="true">https://techpotato.io/home</guid>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://techpotato.io/about</link>
+      <description />
+      <pubDate>Fri, 03 Oct 2025 22:17:00 -0000</pubDate>
+      <guid isPermaLink="true">https://techpotato.io/about</guid>
+    </item>
+  </channel>
+</rss>
