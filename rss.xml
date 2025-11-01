@@ -13,9 +13,21 @@
       <width>32</width>
       <height>32</height>
     </image>
-    <lastBuildDate>Fri, 10 Oct 2025 10:35:00 -0000</lastBuildDate>
-    <pubDate>Fri, 10 Oct 2025 10:35:00 -0000</pubDate>
+    <lastBuildDate>Sat, 01 Nov 2025 19:57:00 -0000</lastBuildDate>
+    <pubDate>Sat, 01 Nov 2025 19:57:00 -0000</pubDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Untitled</title>
+      <link>https://techpotato.io/404</link>
+      <description />
+      <image>
+        <url>https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/Attachments/techpotato_logo.png</url>
+        <title>Techpotato Blog</title>
+        <link>https://techpotato.io/404</link>
+      </image>
+      <pubDate>Sat, 01 Nov 2025 19:57:00 -0000</pubDate>
+      <guid isPermaLink="true">https://techpotato.io/404</guid>
+    </item>
     <item>
       <title>Linux Gaming</title>
       <link>https://techpotato.io/linux_gaming</link>
@@ -33,7 +45,7 @@
       <link>https://techpotato.io/home</link>
       <description />
       <image>
-        <url>https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/None</url>
+        <url>https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/Attachments/techpotato_logo.png</url>
         <title>Techpotato Blog</title>
         <link>https://techpotato.io/home</link>
       </image>
