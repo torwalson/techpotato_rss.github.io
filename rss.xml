@@ -3,9 +3,16 @@
   <channel>
     <title>TechPotato Blog</title>
     <link>https://techpotato.io/</link>
-    <ns0:link href="https://techpotato.io/rss.xml" rel="self" type="application/rss+xml" />
+    <ns0:link href="https://techpotato.io/rss" rel="self" type="application/rss+xml" />
     <description>Latest Blog Posts by Torwals the Tech TechPotato</description>
     <language>en-us</language>
+    <image>
+      <url>https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/Attachments/techpotato_logo.png</url>
+      <title>Techpotato Blog</title>
+      <link>https://techpotato.io/</link>
+      <width>32</width>
+      <height>32</height>
+    </image>
     <lastBuildDate>Fri, 10 Oct 2025 10:35:00 -0000</lastBuildDate>
     <pubDate>Fri, 10 Oct 2025 10:35:00 -0000</pubDate>
     <ttl>1800</ttl>
@@ -13,6 +20,11 @@
       <title>Linux Gaming</title>
       <link>https://techpotato.io/linux_gaming</link>
       <description>Troubleshooting slow windows games with proton on my Linux gaming setup using Pop!OS.</description>
+      <image>
+        <url>https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/Attachments/a82yvs.jpg</url>
+        <title>Techpotato Blog</title>
+        <link>https://techpotato.io/linux_gaming</link>
+      </image>
       <pubDate>Sat, 04 Oct 2025 03:52:00 -0000</pubDate>
       <guid isPermaLink="true">https://techpotato.io/linux_gaming</guid>
     </item>
@@ -20,6 +32,11 @@
       <title>Welcome to Techpotato.io</title>
       <link>https://techpotato.io/home</link>
       <description />
+      <image>
+        <url>https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/None</url>
+        <title>Techpotato Blog</title>
+        <link>https://techpotato.io/home</link>
+      </image>
       <pubDate>Fri, 03 Oct 2025 22:35:00 -0000</pubDate>
       <guid isPermaLink="true">https://techpotato.io/home</guid>
     </item>
@@ -27,6 +44,11 @@
       <title>About</title>
       <link>https://techpotato.io/about</link>
       <description />
+      <image>
+        <url>https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/Attachments/571805459_867993795554853_2951317537981164756_n 1.jpg</url>
+        <title>Techpotato Blog</title>
+        <link>https://techpotato.io/about</link>
+      </image>
       <pubDate>Fri, 03 Oct 2025 22:17:00 -0000</pubDate>
       <guid isPermaLink="true">https://techpotato.io/about</guid>
     </item>
