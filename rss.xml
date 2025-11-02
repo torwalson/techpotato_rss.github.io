@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>TechPotato Blog</title>
     <link>https://techpotato.io/</link>
-    <ns0:link href="https://techpotato.io/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://techpotato.io/rss.xml" rel="self" type="application/rss+xml" />
     <description>Latest Blog Posts by Torwals the Tech TechPotato</description>
     <language>en-us</language>
     <image>
@@ -19,51 +19,44 @@
     <item>
       <title>404</title>
       <link>https://techpotato.io/404</link>
-      <description>
-        <img>
-          <url>https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/Attachments/techpotato_logo.png</url>
-          <title>Techpotato Blog</title>
-          <link>https://techpotato.io/404</link>
-        </img>
-      </description>
+      <description> </description>
+      <media:content url="https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/Attachments/techpotato_logo.png" medium="image">
+        <media:title>404</media:title>
+      </media:content>
+      <media:thumbnail url="https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/Attachments/techpotato_logo.png" />
       <pubDate>Sat, 01 Nov 2025 19:57:00 -0000</pubDate>
       <guid isPermaLink="true">https://techpotato.io/404</guid>
     </item>
     <item>
       <title>Linux Gaming</title>
       <link>https://techpotato.io/linux_gaming</link>
-      <description>Troubleshooting slow windows games with proton on my Linux gaming setup using Pop!OS.<img>
-          <url>https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/Attachments/a82yvs.jpg</url>
-          <title>Techpotato Blog</title>
-          <link>https://techpotato.io/linux_gaming</link>
-        </img>
-      </description>
+      <description>Troubleshooting slow windows games with proton on my Linux gaming setup using Pop!OS.</description>
+      <media:content url="https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/Attachments/a82yvs.jpg" medium="image">
+        <media:title>Linux Gaming</media:title>
+      </media:content>
+      <media:thumbnail url="https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/Attachments/a82yvs.jpg" />
       <pubDate>Sat, 04 Oct 2025 03:52:00 -0000</pubDate>
       <guid isPermaLink="true">https://techpotato.io/linux_gaming</guid>
     </item>
     <item>
       <title>Welcome to Techpotato.io</title>
       <link>https://techpotato.io/home</link>
-      <description>
-        <img>
-          <url>https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/Attachments/techpotato_logo.png</url>
-          <title>Techpotato Blog</title>
-          <link>https://techpotato.io/home</link>
-        </img>
-      </description>
+      <description> </description>
+      <media:content url="https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/Attachments/techpotato_logo.png" medium="image">
+        <media:title>Welcome to Techpotato.io</media:title>
+      </media:content>
+      <media:thumbnail url="https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/Attachments/techpotato_logo.png" />
       <pubDate>Fri, 03 Oct 2025 22:35:00 -0000</pubDate>
       <guid isPermaLink="true">https://techpotato.io/home</guid>
     </item>
     <item>
       <title>About</title>
       <link>https://techpotato.io/about</link>
-      <description>
-        <img>
-          <url>https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/Attachments/571805459_867993795554853_2951317537981164756_n 1.jpg</url>
-          <title>Techpotato Blog</title>
-          <link>https://techpotato.io/about</link>
-        </img>
-      </description>
+      <description> </description>
+      <media:content url="https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/Attachments/571805459_867993795554853_2951317537981164756_n%201.jpg" medium="image">
+        <media:title>About</media:title>
+      </media:content>
+      <media:thumbnail url="https://publish-01.obsidian.md/access/b98ab139c275b499dc686c17ef9eb194/Attachments/571805459_867993795554853_2951317537981164756_n%201.jpg" />
       <pubDate>Fri, 03 Oct 2025 22:17:00 -0000</pubDate>
       <guid isPermaLink="true">https://techpotato.io/about</guid>
     </item>
