@@ -3,7 +3,7 @@
   <channel>
     <title>TechPotato Blog</title>
     <link>https://techpotato.io/</link>
-    <ns0:link href="https://techpotato.io/rss" rel="self" type="application/rss+xml" />
+    <ns0:link href="https://techpotato.io/rss.xml" rel="self" type="application/rss+xml" />
     <description>Latest Blog Posts by Torwals the Tech TechPotato</description>
     <language>en-us</language>
     <image>
@@ -17,7 +17,7 @@
     <pubDate>Sat, 01 Nov 2025 19:57:00 -0000</pubDate>
     <ttl>1800</ttl>
     <item>
-      <title>Untitled</title>
+      <title>404</title>
       <link>https://techpotato.io/404</link>
       <description />
       <image>
